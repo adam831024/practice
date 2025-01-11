@@ -5,3 +5,4 @@ branch1
 branch1 3  
 branch1 4  
 branch2 5  
+branch2 6  
